@@ -11,3 +11,10 @@ This repository contains a Java bidding project that facilitates the process of 
 - Contractor.java: This file defines the Contractor class, which represents a contractor participating in the bidding process. It includes details about the contractor, such as their name, contact information, and possibly their past bid history.
 
 - Date.java: This file likely defines the Date class, which could be used to handle date-related operations within the project. It may include methods for parsing, formatting, and comparing dates.
+
+
+## To use and contribute to this project, follow these steps:
+
+Clone the repository to your local machine using Git.
+
+git clone <repository_url>
