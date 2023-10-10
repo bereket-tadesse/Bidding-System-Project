@@ -2,7 +2,7 @@
 
 This repository contains a Java bidding project that facilitates the process of creating and managing contracts and bids between contractors. The project consists of several Java source files that work together to simulate a bidding system.
 
-## Files Included:
+## Files Included
 
 - Bid.java: This file represents the Bid class, which encapsulates information about a bid made by a contractor for a specific contract. It includes details such as the bid amount, contractor information, and contract details.
 
